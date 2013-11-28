@@ -1,0 +1,4 @@
+#!/bin/sh
+
+version=0.2
+curl -A 'Mozilla/5.0 (Windows NT 5.0; rv:10.0) Gecko/20100101 Firefox/10.0' http://www.question-defense.com/wp-content/uploads/OCS-$version.c -O
